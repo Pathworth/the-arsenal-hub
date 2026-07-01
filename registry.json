@@ -188,7 +188,8 @@
           "division": "NAACP Division",
           "tag": "A01",
           "does": "Keeps the membership records clean and reconciled.",
-          "specialty": "Squarespace to Salesforce reconciliation, catching data mismatches"
+          "specialty": "Squarespace to Salesforce reconciliation, catching data mismatches",
+          "avatar": "avatars/trace.jpg"
         },
         {
           "id": "della",
@@ -197,7 +198,8 @@
           "division": "NAACP Division",
           "tag": "A02",
           "does": "Runs the monthly membership batches end to end.",
-          "specialty": "Salesforce batches, convention roster, paper and online intake"
+          "specialty": "Salesforce batches, convention roster, paper and online intake",
+          "avatar": "avatars/della.jpg"
         },
         {
           "id": "bridget",
@@ -206,7 +208,8 @@
           "division": "NAACP Division",
           "tag": "A03",
           "does": "Runs the BRIDGES youth summer program.",
-          "specialty": "Roster, weekly curriculum, family communications, the live dashboard"
+          "specialty": "Roster, weekly curriculum, family communications, the live dashboard",
+          "avatar": "avatars/bridget.jpg"
         },
         {
           "id": "emma",
@@ -215,7 +218,8 @@
           "division": "NAACP Division",
           "tag": "A06",
           "does": "Runs the Back to School, Stay in School event.",
-          "specialty": "Aug 29 event workstream, the Back to School board"
+          "specialty": "Aug 29 event workstream, the Back to School board",
+          "avatar": "avatars/emma.jpg"
         },
         {
           "id": "helm",
@@ -224,7 +228,8 @@
           "division": "NAACP Division",
           "tag": "A04",
           "does": "Manages the Freedom Fund dinner program.",
-          "specialty": "Event reconciliation, program operations, the 71st FFFFD"
+          "specialty": "Event reconciliation, program operations, the 71st FFFFD",
+          "avatar": "avatars/helm.jpg"
         },
         {
           "id": "clara",
@@ -233,7 +238,8 @@
           "division": "NAACP Division",
           "tag": "A05",
           "does": "Keeps committees coordinated and communicating.",
-          "specialty": "Committee comms, meeting operations"
+          "specialty": "Committee comms, meeting operations",
+          "avatar": "avatars/clara.jpg"
         },
         {
           "id": "sterling",
@@ -302,7 +308,8 @@
           "division": "Relationships & Outreach",
           "tag": "A16",
           "does": "Routes and organizes the email.",
-          "specialty": "Outlook routing and inbox order"
+          "specialty": "Outlook routing and inbox order",
+          "avatar": "avatars/vera.jpg"
         },
         {
           "id": "orion",
@@ -311,7 +318,8 @@
           "division": "Strategy",
           "tag": "A13",
           "does": "Thinks through the big moves before you commit.",
-          "specialty": "High-level strategy and planning"
+          "specialty": "High-level strategy and planning",
+          "avatar": "avatars/orion.jpg"
         },
         {
           "id": "klay",
@@ -330,7 +338,8 @@
           "division": "Money & Numbers",
           "tag": "A15",
           "does": "Handles federal and Michigan taxes.",
-          "specialty": "Personal and LLC returns, deductions, quarterly estimates"
+          "specialty": "Personal and LLC returns, deductions, quarterly estimates",
+          "avatar": "avatars/tabby.jpg"
         },
         {
           "id": "stew",
@@ -339,7 +348,8 @@
           "division": "Founding Crew",
           "tag": "A17",
           "does": "Organizes and files the files.",
-          "specialty": "Filing systems (older build, verify before leaning on it)"
+          "specialty": "Filing systems (older build, verify before leaning on it)",
+          "avatar": "avatars/stew.jpg"
         },
         {
           "id": "whisper",
@@ -348,7 +358,8 @@
           "division": "Founding Crew",
           "tag": "A18",
           "does": "Turns audio and video into text.",
-          "specialty": "Transcription (older build)"
+          "specialty": "Transcription (older build)",
+          "avatar": "avatars/whisper.jpg"
         },
         {
           "id": "harper",
@@ -357,7 +368,8 @@
           "division": "Founding Crew",
           "tag": "A19",
           "does": "Early voice AI work.",
-          "specialty": "Voice (older build)"
+          "specialty": "Voice (older build)",
+          "avatar": "avatars/harper.jpg"
         },
         {
           "id": "angie",
@@ -366,7 +378,8 @@
           "division": "Founding Crew",
           "tag": "A20",
           "does": "One of the original assistants.",
-          "specialty": "General assistant (older build)"
+          "specialty": "General assistant (older build)",
+          "avatar": "avatars/angie.jpg"
         },
         {
           "id": "nova",
@@ -375,7 +388,8 @@
           "division": "Founding Crew",
           "tag": "A21",
           "does": "Assistant support alongside Angie.",
-          "specialty": "Assistant support (older build)"
+          "specialty": "Assistant support (older build)",
+          "avatar": "avatars/nova.jpg"
         }
       ]
     }
