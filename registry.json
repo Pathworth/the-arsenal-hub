@@ -1,13 +1,13 @@
 {
   "brand": {
-    "name": "Command Deck",
+    "name": "The Arsenal",
     "owner": "Jermaine Peguese",
     "tagline": "Everything I've built. One door."
   },
   "sections": [
     {
       "id": "tools",
-      "title": "My Tools",
+      "title": "The Kit",
       "blurb": "Software I built and run. Launch buttons work on my PC.",
       "cards": [
         {
@@ -89,7 +89,7 @@
     },
     {
       "id": "websites",
-      "title": "Websites",
+      "title": "The Showroom",
       "blurb": "Live sites. These open anywhere, phone included.",
       "cards": [
         {
@@ -127,8 +127,8 @@
     },
     {
       "id": "dashboards",
-      "title": "Dashboards & Team",
-      "blurb": "Live boards and the team hub.",
+      "title": "The Boards",
+      "blurb": "Live dashboards and the team hub.",
       "cards": [
         {
           "id": "bridges",
@@ -149,8 +149,8 @@
     },
     {
       "id": "public-tools",
-      "title": "Public Tools",
-      "blurb": "Free give-away tools. Brand front door (in build).",
+      "title": "Giveaways",
+      "blurb": "Free public tools. Brand front door (in build).",
       "cards": [
         {
           "id": "jpb-free-tools",
