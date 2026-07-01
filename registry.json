@@ -144,6 +144,13 @@
           "github": "https://github.com/Pathworth/bridges-dashboard"
         },
         {
+          "id": "back-to-school",
+          "name": "Back to School 2026",
+          "desc": "Workstream board for the NAACP Aug 29 Back to School event. Not deployed yet.",
+          "tag": "P06",
+          "github": "https://github.com/Pathworth/naacp-back-to-school-2026"
+        },
+        {
           "id": "command-center",
           "name": "Command Center",
           "desc": "Shared home for the agent roster and Execution Director.",
