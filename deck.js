@@ -121,6 +121,16 @@
       actions.appendChild(b);
     }
 
+    // Preview (mock screen) — great on the phone for grayed-out local tools
+    if (card.preview && window.MOCKUPS && window.MOCKUPS[card.id]) {
+      const p = document.createElement("button");
+      const primary = !card.liveUrl && !(LOCAL && card.launch);
+      p.className = "btn" + (primary ? " btn-primary" : "");
+      p.textContent = "Preview";
+      p.onclick = () => openModal(card);
+      actions.appendChild(p);
+    }
+
     // GitHub / code
     if (card.github) {
       actions.appendChild(linkBtn("Code", card.github, "btn btn-ghost"));
@@ -165,6 +175,26 @@
         }, 1500);
       });
   }
+
+  // --- preview modal ---
+  const modal = document.getElementById("modal");
+  function openModal(card) {
+    document.getElementById("modal-title").textContent = card.name;
+    document.getElementById("modal-sub").textContent = card.desc;
+    document.getElementById("modal-mock").innerHTML = window.MOCKUPS[card.id] || "";
+    modal.classList.add("show");
+  }
+  function closeModal() {
+    modal.classList.remove("show");
+    document.getElementById("modal-mock").innerHTML = "";
+  }
+  document.getElementById("modal-close").onclick = closeModal;
+  modal.addEventListener("click", (e) => {
+    if (e.target === modal) closeModal();
+  });
+  document.addEventListener("keydown", (e) => {
+    if (e.key === "Escape") closeModal();
+  });
 
   let toastTimer;
   function toast(msg) {
