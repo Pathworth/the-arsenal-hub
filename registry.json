@@ -1,0 +1,167 @@
+{
+  "brand": {
+    "name": "Command Deck",
+    "owner": "Jermaine Peguese",
+    "tagline": "Everything I've built. One door."
+  },
+  "sections": [
+    {
+      "id": "tools",
+      "title": "My Tools",
+      "blurb": "Software I built and run. Launch buttons work on my PC.",
+      "cards": [
+        {
+          "id": "frameworth",
+          "name": "FrameWorth",
+          "desc": "Pull ranked marketing-grade stills out of any video.",
+          "tag": "T01",
+          "github": "https://github.com/Pathworth/frameworth",
+          "launch": {
+            "type": "bat"
+          }
+        },
+        {
+          "id": "brand-it-up",
+          "name": "Brand It Up",
+          "desc": "Paste content, get a finished on-brand PDF in your Signature.",
+          "tag": "T07",
+          "github": "https://github.com/Pathworth/brand-it-up",
+          "launch": {
+            "type": "bat"
+          }
+        },
+        {
+          "id": "voice-studio",
+          "name": "Pathworth Voice Studio",
+          "desc": "Your own voice-cloning and text-to-speech engine.",
+          "tag": "T02",
+          "github": "https://github.com/Pathworth/pathworth-voice-studio",
+          "launch": {
+            "type": "folder"
+          }
+        },
+        {
+          "id": "video-grabber",
+          "name": "Video Grabber",
+          "desc": "Save protected replays (Voomly / ClickFunnels) as clean MP4.",
+          "tag": "T04",
+          "github": "https://github.com/Pathworth/video-grabber",
+          "launch": {
+            "type": "bat"
+          }
+        },
+        {
+          "id": "photo-organizer",
+          "name": "Photo Organizer",
+          "desc": "Type-first system to sort the 1.5TB personal photo library.",
+          "tag": "T03",
+          "github": "https://github.com/Pathworth/photo-organizer",
+          "launch": {
+            "type": "folder"
+          }
+        },
+        {
+          "id": "envelope",
+          "name": "Pathworth Envelope App",
+          "desc": "Luxury digital document-delivery you run to send to clients.",
+          "tag": "T06",
+          "liveUrl": "https://the-pathworth-envelope-app.vercel.app",
+          "github": "https://github.com/Pathworth/The-Pathworth-Envelope-App"
+        },
+        {
+          "id": "audivid",
+          "name": "AudiVid Transcriber",
+          "desc": "Audio / video transcription with Whisper and a web UI.",
+          "tag": "T05",
+          "github": "https://github.com/Pathworth/AudiVid-Transcriber"
+        },
+        {
+          "id": "omnivoice",
+          "name": "OmniVoice (engine audit)",
+          "desc": "Open-source voice engine core behind Voice Studio (upstream).",
+          "tag": "T08",
+          "github": "https://github.com/k2-fsa/OmniVoice",
+          "launch": {
+            "type": "folder"
+          }
+        }
+      ]
+    },
+    {
+      "id": "websites",
+      "title": "Websites",
+      "blurb": "Live sites. These open anywhere, phone included.",
+      "cards": [
+        {
+          "id": "netflix",
+          "name": "Jermaine — Netflix Brand Site",
+          "desc": "The cinematic personal-brand site. Your main showpiece.",
+          "tag": "W01",
+          "liveUrl": "https://netflix-jermainepb-website.vercel.app",
+          "github": "https://github.com/Pathworth/netflix-jermainepb"
+        },
+        {
+          "id": "chairman",
+          "name": "Chairman of AI",
+          "desc": "The one-pager brand statement in the blue Signature.",
+          "tag": "W02",
+          "liveUrl": "https://chairman-of-ai-site.vercel.app",
+          "github": "https://github.com/Pathworth/chairman-of-ai-site"
+        },
+        {
+          "id": "hbw",
+          "name": "Healed Black Women",
+          "desc": "Cinematic nonprofit site (Detroit). Black and gold.",
+          "tag": "W03",
+          "liveUrl": "https://healed-black-women-detroit.netlify.app",
+          "github": "https://github.com/Pathworth/healed-black-women-website"
+        },
+        {
+          "id": "infinity",
+          "name": "Infinity Medical Group",
+          "desc": "Private client preview (not public). Source only.",
+          "tag": "W04",
+          "github": "https://github.com/Pathworth/infinity-medical-group-website"
+        }
+      ]
+    },
+    {
+      "id": "dashboards",
+      "title": "Dashboards & Team",
+      "blurb": "Live boards and the team hub.",
+      "cards": [
+        {
+          "id": "bridges",
+          "name": "BRIDGES Dashboard",
+          "desc": "Live command board for the NAACP BRIDGES youth program.",
+          "tag": "P02",
+          "liveUrl": "https://pathworth.github.io/bridges-dashboard/",
+          "github": "https://github.com/Pathworth/bridges-dashboard"
+        },
+        {
+          "id": "command-center",
+          "name": "Command Center",
+          "desc": "Shared home for the agent roster and Execution Director.",
+          "tag": "P04",
+          "github": "https://github.com/Pathworth/command-center"
+        }
+      ]
+    },
+    {
+      "id": "public-tools",
+      "title": "Public Tools",
+      "blurb": "Free give-away tools. Brand front door (in build).",
+      "cards": [
+        {
+          "id": "jpb-free-tools",
+          "name": "JPB Free Tools",
+          "desc": "Give-away suite: Freedom Date, FairQuote AC, Resume Roaster and more.",
+          "tag": "P01",
+          "launch": {
+            "type": "folder"
+          }
+        }
+      ]
+    }
+  ]
+}
