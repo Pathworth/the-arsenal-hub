@@ -147,9 +147,10 @@
         {
           "id": "back-to-school",
           "name": "Back to School 2026",
-          "desc": "The workstream board for the NAACP Back to School, Stay in School event (Aug 29). Emma is building the page now.",
+          "desc": "Live workstream board for the NAACP Aug 29 Back to School event. 500 backpacks, 13 workstreams.",
           "tag": "P06",
-          "github": "https://github.com/Pathworth/naacp-back-to-school-2026"
+          "github": "https://github.com/Pathworth/naacp-back-to-school-2026",
+          "liveUrl": "https://pathworth.github.io/naacp-back-to-school-2026/"
         },
         {
           "id": "command-center",
