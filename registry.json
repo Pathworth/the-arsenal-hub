@@ -128,6 +128,14 @@
           "tag": "W04",
           "github": "https://github.com/Pathworth/infinity-medical-group-website",
           "liveUrl": "https://infinity-medical-group.netlify.app"
+        },
+        {
+          "id": "walkthrough",
+          "name": "The Walkthrough",
+          "desc": "A cinematic chaptered-scroll concept site. You scroll through one lead getting caught, chased, booked and closed, and it ends on a single call to action. Example mock, content is swappable.",
+          "tag": "W05",
+          "liveUrl": "https://the-walkthrough.netlify.app",
+          "github": "https://github.com/Pathworth/the-walkthrough"
         }
       ]
     },
