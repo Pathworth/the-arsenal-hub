@@ -202,14 +202,14 @@
           "avatar": "avatars/jellybean.jpg"
         },
         {
-          "id": "trace",
-          "name": "TRACE",
+          "id": "tracy",
+          "name": "Tracy",
           "role": "Data Integrity & Reconciliation",
           "division": "NAACP Division",
           "tag": "A01",
           "does": "Keeps the membership records clean and reconciled.",
           "specialty": "Squarespace to Salesforce reconciliation, catching data mismatches",
-          "avatar": "avatars/trace.jpg"
+          "avatar": "avatars/tracy.jpg"
         },
         {
           "id": "della",
@@ -252,14 +252,14 @@
           "avatar": "avatars/connie.jpg"
         },
         {
-          "id": "helm",
-          "name": "HELM",
+          "id": "hollis",
+          "name": "Hollis",
           "role": "FFFFD Program Manager",
           "division": "NAACP Division",
           "tag": "A04",
           "does": "Manages the Freedom Fund dinner program.",
           "specialty": "Event reconciliation, program operations, the 71st FFFFD",
-          "avatar": "avatars/helm.jpg"
+          "avatar": "avatars/hollis.jpg"
         },
         {
           "id": "clara",
@@ -292,14 +292,14 @@
           "avatar": "avatars/lumen.jpg"
         },
         {
-          "id": "glean",
-          "name": "GLEAN",
+          "id": "glen",
+          "name": "Glen",
           "role": "FrameWorth Architect & Stills Curator",
           "division": "Brand & Build",
           "tag": "A09",
           "does": "Built FrameWorth and pulls the marketing stills.",
           "specialty": "Video-to-stills, ranking and curating marketing-grade frames",
-          "avatar": "avatars/glean.jpg"
+          "avatar": "avatars/glen.jpg"
         },
         {
           "id": "kanon",
@@ -342,14 +342,14 @@
           "avatar": "avatars/vera.jpg"
         },
         {
-          "id": "orion",
-          "name": "ORION",
+          "id": "orin",
+          "name": "Orin",
           "role": "Strategic Agent",
           "division": "Strategy",
           "tag": "A13",
           "does": "Thinks through the big moves before you commit.",
           "specialty": "High-level strategy and planning",
-          "avatar": "avatars/orion.jpg"
+          "avatar": "avatars/orin.jpg"
         },
         {
           "id": "klay",
